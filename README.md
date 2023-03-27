@@ -1,4 +1,6 @@
-# .
+# Мy-favorite-movies
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSExXlCvzEVPtIZakS5rN5QaAmoydb-zIzCvw&usqp=CAU">
 
 This template should help get you started developing with Vue 3 in Vite.
 
